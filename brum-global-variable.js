@@ -1,5 +1,5 @@
-import '../@polymer/polymer/polymer-legacy.js';
-import { Polymer } from '../@polymer/polymer/lib/legacy/polymer-fn.js';
+import '@polymer/polymer/polymer-legacy.js';
+import { Polymer } from '@polymer/polymer/lib/legacy/polymer-fn.js';
 /**
  * `brum-global-variable`
  * A component to easily define, edit and subscribe to global variables
